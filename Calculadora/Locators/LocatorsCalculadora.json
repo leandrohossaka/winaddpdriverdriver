@@ -1,0 +1,94 @@
+{
+   "version": "1.0.0",
+    "application": "RoboTrader",
+    "locators": [{ 
+			"page": "Calculadora",
+			"elementos": [
+				{
+					"name": "1",
+					"by": "AccessibilityId",
+					"value": "num1Button"
+				},
+				{
+					"name": "2",
+					"by": "AccessibilityId",
+					"value": "num2Button"
+				},
+				{
+					"name": "3",
+					"by": "AccessibilityId",
+					"value": "num3Button"
+				},
+				{
+					"name": "4",
+					"by": "AccessibilityId",
+					"value": "num4Button"
+				},
+				{
+					"name": "5",
+					"by": "AccessibilityId",
+					"value": "num5Button"
+				},
+				{
+					"name": "6",
+					"by": "AccessibilityId",
+					"value": "num6Button"
+				},
+				{
+					"name": "7",
+					"by": "AccessibilityId",
+					"value": "num7Button"
+				},
+				{
+					"name": "8",
+					"by": "AccessibilityId",
+					"value": "num8Button"
+				},
+				{
+					"name": "9",
+					"by": "AccessibilityId",
+					"value": "num9Button"
+				},
+				{
+					"name": "0",
+					"by": "AccessibilityId",
+					"value": "num0Button"
+				},
+				{
+					"name": ",",
+					"by": "AccessibilityId",
+					"value": "decimalSeparatorButton"
+				},
+				{
+					"name": "+",
+					"by": "AccessibilityId",
+					"value": "plusButton"
+				},
+				{
+					"name": "-",
+					"by": "AccessibilityId",
+					"value": "minusButton"
+				},
+				{
+					"name": "*",
+					"by": "AccessibilityId",
+					"value": "multiplyButton"
+				},
+				{
+					"name": "/",
+					"by": "AccessibilityId",
+					"value": "divideButton"
+				},
+				{
+					"name": "=",
+					"by": "AccessibilityId",
+					"value": "equalButton"
+				},
+				{
+					"name": "resultado",
+					"by": "AccessibilityId",
+					"value": "CalculatorResults"
+				}
+			]
+	}]
+}
